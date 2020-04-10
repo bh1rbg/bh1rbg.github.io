@@ -1,15 +1,13 @@
 # bh1rbg.github.io
 BH1RBG Radio Lab
 
-## Attenna
+## 天线
 
 <img src="long-wire-attenna.jpg" alt="hi" class="right"/>
 
 
-## Receiver
+## 收发信机
 
-## Transmiter
+## 设备DIY
 
-## Experiment
-
-## Lab Instrument
+## 实验室设备
