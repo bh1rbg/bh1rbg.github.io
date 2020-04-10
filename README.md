@@ -2,7 +2,7 @@
 BH1RBG Radio Lab
 
 ## Attenna
-!("long-wire-attenna.jpg")
+!("https://github.com/bh1rbg/bh1rbg.github.io/blob/master/long-wire-attenna.jpg")
 ## Receiver
 
 ## Transmiter
