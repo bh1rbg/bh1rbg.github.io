@@ -10,4 +10,4 @@ title: "Invert V Antenna"
 ![](/images/long-wire-attenna.jpg?align=center)
 
 
-<img src="/images/long-wire-attenna.jpg" align=center>
+<img src="/images/long-wire-attenna.jpg" align="right">
