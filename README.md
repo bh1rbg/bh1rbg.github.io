@@ -3,7 +3,7 @@ BH1RBG Radio Lab
 
 ## 天线
 
-<a href="anttenna_i.html">Page 2</a>
+<a href="antenna_i.html">第一幅天线</a>
 
 
 ## 收发信机
