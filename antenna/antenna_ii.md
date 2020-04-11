@@ -15,7 +15,7 @@ title: "Invert V Antenna"
     倒 V 天线适合用老式300欧姆的电视天线(梯形馈线)引入室内.
 </td>
 <td>
-   <img src="/images/invertedv.gif" align="right" width="400">
+   <img src="/images/invertedv.gif" align="right" width="800">
 </td>
 </table>
 
