@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Fist Antenna"
-permalink: /antenna/
+---
+
 
 <img src="images/long-wire-attenna.jpg" alt="hi" class="right"/>
 
