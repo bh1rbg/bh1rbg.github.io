@@ -18,3 +18,13 @@ title: "Invert V Antenna"
    <img src="/images/invertedv.gif" align="right" width="400">
 </td>
 </table>
+
+
+
+
+
+<style>
+table, td {
+  border: 0px solid black;
+}
+</style>
