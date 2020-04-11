@@ -11,6 +11,6 @@ g)
 
 <p align="center"> 
   
-![](/images/long-wire-attenna.jp
+![](/images/long-wire-attenna.jp)
 
 </p>
