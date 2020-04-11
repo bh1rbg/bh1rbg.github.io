@@ -11,7 +11,19 @@ title: "Invert V Antenna"
 
 
 
-| =============== | ======== |
+<img src="/images/invertedv.gif" align="right">
 
-|中间一个杆子撑起来拉两根线倒地面即可. 对于家在楼房的, 这个杆子正好可以用窗口代替, 从窗户拉两根线到地面, 或者到树上. | <img src="/images/invertedv.gif" align="right">|
 
+![Proguard](/images/invertedv.gif){: .image-left } 
+
+
+```
+<style type="text/css">
+.image-left {
+display: block;
+margin-left: auto;
+margin-right: auto;
+float: right;
+}
+</style>
+```
