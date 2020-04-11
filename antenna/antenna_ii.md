@@ -10,13 +10,12 @@ title: "Invert V Antenna"
 
 
 
-<img src="/images/invertedv.gif" align="right">
 
 <div>
 <tr>
-  短波Invert V 天线, 是非常简单的一种短波天线, 并且非常流行. 
+    短波Invert V 天线, 是非常简单的一种短波天线, 并且非常流行. 
 </tr>
 <tr>
-![](/images/invertedv.gif)
+   <img src="/images/invertedv.gif" align="right" width="400">
 </tr>
 </div>
