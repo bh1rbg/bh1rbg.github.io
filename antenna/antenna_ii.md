@@ -8,7 +8,7 @@ title: "Invert V Antenna"
 # Invert V 天线
 
 
-<table style="width:100%">
+<table style="width:100%;display:none;">
 <td>
     短波Invert V 天线, 是非常简单的一种短波天线, 并且非常流行.
     对家在楼房的, 只需要从窗户拉出两根线到地面即可.
@@ -20,11 +20,3 @@ title: "Invert V Antenna"
 </table>
 
 
-
-
-
-<style>
-table, td {
-  border: 0px solid black;
-}
-</style>
