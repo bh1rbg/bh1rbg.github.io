@@ -3,7 +3,7 @@ BH1RBG Radio Lab
 
 ## 天线
 
-[anttena]("attenna/attenna_i.md")
+[anttena]("./attenna/attenna_i.md")
 
 
 ## 收发信机
