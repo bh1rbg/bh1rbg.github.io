@@ -8,5 +8,5 @@ title: "Invert V Antenna"
 # Image in Subpage
 
   
-![](/images/long-wire-attenna.jp?align=center)
+![](/images/long-wire-attenna.jpg?align=center)
 
