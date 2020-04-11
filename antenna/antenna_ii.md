@@ -5,9 +5,10 @@ title: "Invert V Antenna"
 
 
 
-# Image in Subpage
+# Invert V 天线
 
-![](/images/long-wire-attenna.jpg?align=center)
+短波Invert V 天线
 
 
-<img src="/images/long-wire-attenna.jpg" align="right">
+<img src="/images/invertedv.gif" align="right">
+
