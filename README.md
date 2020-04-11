@@ -3,7 +3,7 @@ BH1RBG Radio Lab
 
 ## 天线
 
-[人生第一幅天线](attenna/attenna_i.md)
+[人生第一幅天线]("https://github.com/bh1rbg/bh1rbg.github.io/blob/master/anttena/anttena_i.md")
 
 
 ## 收发信机
