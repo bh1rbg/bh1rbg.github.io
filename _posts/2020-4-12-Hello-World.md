@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: BH1RBG Fist Blog
 ---
 
-First Blog Post.
+留念, 学习贴.
 
 image example:
 ![invertV]({{ site.baseurl }}/images/invertedv.gif)
