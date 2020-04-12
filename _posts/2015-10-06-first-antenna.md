@@ -5,8 +5,8 @@ title: "Fist Antenna"
 
 长线天线, 顾名思义就是一根长电线, 粗细可以不用深究, 0.4平方毫米可以, 2平方肯定更好. 用个管子打上孔做绝缘子, 就可以了.
 
+![]({{ site.baseurl }}/images/long-wire-attenna.jpg)
 
-<img src="{{ site.baseurl }}/images/long-wire-attenna.jpg" width="800" />
         
 长线天线示意图, 仅收听的话, 可以不做ATU(天线调谐单元). 我做出来的样子是很丑的, 但是很隐蔽.
         
