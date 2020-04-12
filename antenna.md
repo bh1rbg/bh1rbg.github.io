@@ -10,10 +10,10 @@ permalink: /antenna/
 
 <a href="{{ site.baseurl }}/first-antenna/"> 给收音机用的长线天线</a>, 是"机生"第一幅天线, 是长线天线, 最简单, 最容易架设, 不是最好, 但是最方便.
 
-<img src="{{ site.baseurl }}/images/longwire-window.jpg" alt="hi" class="right"/>
+<img src="{{ site.baseurl }}/images/longwire-window.jpg" width="1000"/>
 
 
 
-因为SSB的需要, 进而架设了<a href="{{ site.baseurl }}/invertv-antenna/"> 短波Invert V 天线</a>.
+为了进一步收听和发射SSB, 架设了<a href="{{ site.baseurl }}/invertv-antenna/"> 短波Invert V 天线</a>. (长线也可以的, 不过也算小的升级换代)
 
 <img src="{{ site.baseurl }}/images/invertedv.gif" align="right" width="1000">

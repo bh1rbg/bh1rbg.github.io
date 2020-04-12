@@ -8,9 +8,11 @@ title: "Invert V Antenna"
 
 对家在楼房的, 只需要从窗户拉出两根线到地面即可.倒 V 天线适合用老式300欧姆的电视天线(梯形馈线)引入室内.
 
+<div align="center">
 | :-: |
-|<img src="{{ site.baseurl }}/images/invertedv.gif" align="right" width="1000">|
+|<img src="{{ site.baseurl }}/images/invertedv.gif"  width="1000">|
 | *示意图* |
+</div>
 
 
 
