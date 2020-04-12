@@ -13,5 +13,7 @@ permalink: /antenna/
 <img src="{{ site.baseurl }}/images/longwire-window.jpg" alt="hi" class="right"/>
 
 
+
 因为SSB的需要, 进而架设了<a href="{{ site.baseurl }}/invertv-antenna/"> 短波Invert V 天线</a>.
 
+<img src="{{ site.baseurl }}/images/invertedv.gif" align="right" width="1000">

@@ -11,7 +11,8 @@ title: "Fist Antenna"
 长线天线示意图, 仅收听的话, 可以不做ATU(天线调谐单元). 我做出来的样子是很丑的, 但是很隐蔽.
         
 | :---: | :---: |
-|<img src="{{ site.baseurl }}/images/longwire-window.jpg" alt="hi" class="right"/>|<img src="{{ site.baseurl }}/images/longwire-tree.jpg" alt="hi" class="right"/>|
+|<img src="{{ site.baseurl }}/images/longwire-window.jpg"  width="1000" class="right"/>|
+<img src="{{ site.baseurl }}/images/longwire-tree.jpg"  width="1000" class="right"/>|
 
 
 10米长线, 已经可以很好的收听SSB通讯了(7.05), 这是录音:
