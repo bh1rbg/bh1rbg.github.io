@@ -4,11 +4,11 @@ title: Antenna
 permalink: /antenna/
 ---
 
-
-## Invert V 天线是非常简单的一种短波天线, 并且非常流行. 
-<a href="{{ site.baseurl }}/_post/2019-1-01-invertv-antenna.md"> 短波Invert V 天线</a>
+曾经被天线坑过很多回, 甚至觉得, 可能不需要天线了吧, 你看收音机也没有看到用长线做天线啊, 就用了一根小小的磁棒, 或者不太长的拉杆天线啊.没一次这样认为, 做的收音机都收不到台, 这里忽略了一个天大的问题, 就是商用中/短波收音机, 在混凝土室内, 也是没有任何电台可听的.
 
 
-## 长线天线最简单, 最容易架设, 不是最好, 但是最方便.  
-<a href="{{ site.baseurl }}/_post/2015-10-06-first-antenna.md"> 给收音机用的长线天线</a>
 
+<a href="{{ site.baseurl }}/first-antenna/"> 给收音机用的长线天线</a>, 是"机生"第一幅天线, 是长线天线, 最简单, 最容易架设, 不是最好, 但是最方便,.
+
+
+因为SSB的需要, 进而架设了<a href="{{ site.baseurl }}/invertv-antenna/"> 短波Invert V 天线</a>.
