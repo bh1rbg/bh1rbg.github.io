@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Invert V Antenna"
+title: "倒V天线"
 ---
 
 短波Invert V 天线, 是非常简单的一种短波天线, 非常流行, 如果是楼房又不算太高, 就非常方便架设了, 并且作为一个比较严肃的天线, 通讯效果也是非常优秀的.
@@ -17,4 +17,16 @@ title: "Invert V Antenna"
 
 | :---: | :---: |
 | ![]({{ site.baseurl }}/images/intvertv-isolator.jpg){:width="400px"}| | ![]({{ site.baseurl }}/images/invertv-tree.jpg){:width="400px"}|
+
+
+
+## 300欧姆馈线
+
+倒V引入室内有个比较流行的方式, 就是采用 ladder 馈线(梯形). 和 lader 馈线非常接近的馈线, 就是老式300 欧姆电视天线.
+
+
+![]({{ site.baseurl }}/images/300ohm_ladder.jpg){:width="600px"}
+
+
+用4mm 香蕉插头和倒V连接, 方便打雷天气时候断开, 安全第一.
 
