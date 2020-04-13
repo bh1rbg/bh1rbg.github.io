@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "TRF I"
+excerpt_separator: <!--more-->
 ---
 
 TRF收音机紧邻矿石收音机. 矿石收音机装上音频放大器, 就可以叫做一个TRF了. 如果从未做过收音机, TRF似乎是个不错的选择, 可以增强diy的信念, 获得宝贵经验.
 
 ![]({{ site.baseurl }}/images/trf-i-hb-pcb.jpg)
+
 <!--more-->
 
 ## 从矿石机开始
