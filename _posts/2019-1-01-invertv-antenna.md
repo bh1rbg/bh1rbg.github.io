@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 ## 示意图
 
-<img src="{{site.baseurl}}/images/invertedv.gif" class="center"  height="350px"/>
+<img src="{{site.baseurl}}/images/invertedv.gif" class="center"  width="450px"/>
 
 
 <!--more-->
