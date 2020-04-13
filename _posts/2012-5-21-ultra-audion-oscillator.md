@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ultra-audion Colpitts"
+excerpt_separator: <!--more-->
 ---
 
 这个振荡器是非常常见, 很多时候没有名字. 偶尔机遇, 我知道了他叫 ultra-audion Colpitts, 是一个利用三极管内部电容作为震荡反馈一部分的特殊电路. 最大的特点就是简单到令人发指, 各种无线电话筒, 90% 的电路是这种.
