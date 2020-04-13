@@ -8,7 +8,9 @@ excerpt_separator: <!--more-->
 
 首测感觉有必要稍微看看一个这种电路, 是一次想要做个 AM 波段的实验发射机. 就觉得好奇, 这个玩意为什么能震荡呢, 正反馈通路到底在哪里.
 
-![]({{site.baseurl}}/images/ultra-audion-transmiter.jpg)
+
+<img src="{{site.baseurl}}/images/ultra-audion-transmiter.jpg" class="center" />
+
 
 <!--more-->
 
@@ -20,15 +22,18 @@ excerpt_separator: <!--more-->
 
 ## 震荡原理
 
-![]({{site.baseurl}}/images/ultra-audion-sch.jpg)
+<img src="{{site.baseurl}}/images/ultra-audion-sch.jpg" class="center" />
 
-![]({{site.baseurl}}/images/ultra-audion-simple-sch.jpg)
+
+<img src="{{site.baseurl}}/images/ultra-audion-simple-sch.jpg" class="center" />
+
 
 ## 能有多简单
 
-![]({{site.baseurl}}/images/ultra-audion-tinny.jpg)
+<img src="{{site.baseurl}}/images/ultra-audion-tinny.jpg" class="center" />
 
 ## 搞定不起振
 
-![]({{site.baseurl}}/images/ultra-audion-fix.jpg)
+<img src="{{site.baseurl}}/images/ultra-audion-fix.jpg" class="center" />
+
 

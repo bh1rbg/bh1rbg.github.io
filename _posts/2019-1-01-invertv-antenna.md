@@ -8,7 +8,8 @@ excerpt_separator: <!--more-->
 
 ## 示意图
 
-![]({{ site.baseurl }}/images/invertedv.gif){:width="400px"}
+<img src="{{site.baseurl}}/images/invertedv.gif" class="center"  height="350px"/>
+
 
 <!--more-->
 
@@ -29,7 +30,7 @@ excerpt_separator: <!--more-->
 倒V引入室内有个比较流行的方式, 就是采用 ladder 馈线(梯形). 和 lader 馈线非常接近的馈线, 就是老式300 欧姆电视天线.
 
 
-![]({{ site.baseurl }}/images/300ohm_ladder.jpg){:width="600px"}
+<img src="{{site.baseurl}}/images/300ohm_ladder.jpg" class="center" />
 
 
 用4mm 香蕉插头和倒V连接, 方便打雷天气时候断开, 安全第一.

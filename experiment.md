@@ -8,5 +8,5 @@ permalink: /experiment/
 
 * <a href="{{ site.baseurl }}/ultra-audion-oscillator/"> ultra-audion 振荡器 </a>
 
-![]({{ site.baseurl }}/images/ultra-audion-tinny.jpg){: widith="300px"}
+<img src="{{site.baseurl}}/images/ultra-audion-tinny.jpg" class="center" />
 

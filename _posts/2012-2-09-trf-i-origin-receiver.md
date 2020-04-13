@@ -6,13 +6,16 @@ excerpt_separator: <!--more-->
 
 TRF收音机紧邻矿石收音机. 矿石收音机装上音频放大器, 就可以叫做一个TRF了. 如果从未做过收音机, TRF似乎是个不错的选择, 可以增强diy的信念, 获得宝贵经验.
 
-![]({{ site.baseurl }}/images/trf-i-hb-pcb.jpg)
+<img src="{{site.baseurl}}/images/trf-i-hb-pcb.jpg" class="center" />
+
+
 
 <!--more-->
 
 ## 从矿石机开始
 
-![]({{ site.baseurl }}/images/trf-i-crystalradio-sch.jpg){: align="center" }
+<img src="{{site.baseurl}}/images/trf-i-crystalradio-sch.jpg" class="center" />
+
 
 矿石收音机的结构简单, 一副天地线, 一个二极管和一个高阻抗耳机. 但是要求其实很多了.
 
@@ -25,8 +28,7 @@ TRF收音机紧邻矿石收音机. 矿石收音机装上音频放大器, 就可�
 * 这个电路极为简单, 选择性是很差的. 信号强的地方, 耳机里听到很多电台一起说话, 很是热闹.
 
 
-
-![]({{ site.baseurl }}/images/trf-i-nice-crystal.jpg){: align="center" }
+<img src="{{site.baseurl}}/images/trf-i-nice-crystal.jpg" class="center" />
 
 艺术品一样的矿石收音机.
 
@@ -36,13 +38,13 @@ TRF收音机紧邻矿石收音机. 矿石收音机装上音频放大器, 就可�
 
 中波收音机里常见的磁棒天线, 是不大可能在混凝土房子的室内收到任何信号的. 所以, 搞了一个大环天线. 说是大环, 其实直径很小, 才区区 40 cm 左右, 这个大环将作为谐振线圈直接作为TRF收音机的调谐线圈.
 
-![]({{ site.baseurl }}/images/trf-i-loop-ant.jpg){: height="600" }
+<img src="{{site.baseurl}}/images/trf-i-loop-ant.jpg" class="center" height="450px" />
 
 
 
 ## 第一部TRF
 
-![]({{ site.baseurl }}/images/trf-i-trf-sch-1.jpg){: align="center" }
+<img src="{{site.baseurl}}/images/trf-i-trf-sch-1.jpg" class="center" />
 
 这就是第一部要实验的TRF收音机电路了. 乍看之下, 最奇怪的地方是检波电路哪里去了. 本意呢是要用三极管检波, 后来仔细审视,感觉静态电流取得比较大, 这可能导致检波效率不高.  把9018 基极 的 510k 电阻换成 1兆欧姆可能更好, 而9014的偏置二电阻可以减小少许, 可以实验决定.
 
@@ -69,7 +71,7 @@ TRF收音机紧邻矿石收音机. 矿石收音机装上音频放大器, 就可�
 
 三极管输入阻抗低, 需要和调谐电路做阻抗匹配. 抽头接入三极管是最简单容易的匹配方式, 抽头位置可以实验决定:距离冷端(电路地)1/5 - 1/2 处.
 
-![]({{ site.baseurl }}/images/trf-i-trf-sch-tap.jpg){: align="center" }
+<img src="{{site.baseurl}}/images/trf-i-trf-sch-tap.jpg" class="center" />
 
 * 抽头使得阻抗匹配的更好, 同时保持了调谐电路的Q值. 
 * 输出信号电压也下降, 但好处占有主导地位, 实际上电台的声音更加响亮, 并且是显著的大很多.
