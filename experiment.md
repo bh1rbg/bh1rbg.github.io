@@ -6,7 +6,7 @@ permalink: /experiment/
 
 各种简短的小实验.
 
+* <a href="{{ site.baseurl }}/ultra-audion-osciilator/"> ultra-audion 振荡器 </a>
 
-* ![]({{ site.baseurl }}/images/longwire-window.jpg){:width="400px"}
+![]({{ site.baseurl }}/images/ultra-audion-tinny.jpg)
 
-* <a href="{{ site.baseurl }}/invertv-antenna/"> 短波Invert V 天线</a>
