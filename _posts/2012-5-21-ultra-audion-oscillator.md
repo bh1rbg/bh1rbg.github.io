@@ -9,6 +9,8 @@ title: "ultra-audion Colpitts"
 
 ![]({{site.baseurl}}/images/ultra-audion-transmiter.jpg)
 
+<!--more-->
+
 
 ## 各种无线电话筒
 
