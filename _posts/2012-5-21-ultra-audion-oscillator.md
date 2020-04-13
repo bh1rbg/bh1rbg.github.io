@@ -9,12 +9,10 @@ title: "ultra-audion Colpitts"
 
 ![]({{site.baseurl}}/images/ultra-audion-transmiter.jpg)
 
-
-
 ## 各种无线电话筒
 
 | :---: | :---:|
-| ![]({{site.baseurl}}/images/ultra-audion-bug1.jpg) | ![]({{site.baseurl}}/images/ultra-audion-bug2.jpg) |
+|![]({{site.baseurl}}/images/ultra-audion-bug1.jpg)|![]({{site.baseurl}}/images/ultra-audion-bug2.jpg)|
 
 ## 震荡原理
 
@@ -29,4 +27,3 @@ title: "ultra-audion Colpitts"
 ## 搞定不起振
 
 ![]({{site.baseurl}}/images/ultra-audion-fix.jpg)
-
