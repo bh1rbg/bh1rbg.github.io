@@ -11,21 +11,21 @@ title: "ultra-audion 振荡器"
 
 看的久了就觉得好奇, 这个玩意为什么能震荡呢, 正反馈通路到底在哪里.
 
-# 各种无线电话筒
+## 各种无线电话筒
 
 | :--: | :--:|
 | ![]({{ site.baseurl }}/images/ultra-audion-bug1.jpg) | ![]({{ site.baseurl }}/images/ultra-audion-bug2.jpg) |
 
-# 震荡原理
+## 震荡原理
 
 ![]({{ site.baseurl }}/images/ultra-audion-sch.jpg)
 
 ![]({{ site.baseurl }}/images/ultra-audion-simple-sch.jpg)
 
-# 能有多简单
+## 能有多简单
 
 ![]({{ site.baseurl }}/images/ultra-audion-tinny.jpg)
 
-# 搞定不起振
+## 搞定不起振
 
 ![]({{ site.baseurl }}/images/ultra-audion-fix.jpg)
