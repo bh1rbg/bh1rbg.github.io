@@ -6,6 +6,9 @@ permalink: /radio/
 
 各种自制收音机, 电台, 商用电台.
 
+* <a href="{{ site.baseurl }}/dynalec-earpiece/">Dynalec 声能耳机 </a>
+
+<img src="{{site.baseurl}}/images/dynalec-ear-fix-3.jpg" class="center" width="400">
 
 * <a href="{{ site.baseurl }}/trf-iii-longwire/"> TRF-III 直放收音机(三) </a>
 
