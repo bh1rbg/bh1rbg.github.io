@@ -14,6 +14,12 @@ permalink: /radio/
 
 <img src="{{site.baseurl}}/images/TRF-longwire-block2.png" class="center" />
 
+
+* <a href="{{ site.baseurl }}/amazing-regen/"> 神奇的再生收音机 </a>
+
+<img src="{{site.baseurl}}/../images/regen-block.png"  class="center"  width="400"/>
+
+
 * <a href="{{ site.baseurl }}/trf-i-origin-receiver/"> TRF-I 直放收音机第一波 </a>
 
 <img src="{{site.baseurl}}/images/trf-i-hb-pcb.jpg" class="center" />
