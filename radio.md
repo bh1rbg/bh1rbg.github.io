@@ -10,14 +10,26 @@ permalink: /radio/
 
 <img src="{{site.baseurl}}/images/dynalec-ear-fix-3.jpg" class="center" width="400">
 
+
+
 * <a href="{{ site.baseurl }}/trf-iii-longwire/"> TRF-III 直放收音机(三) </a>
 
 <img src="{{site.baseurl}}/images/TRF-longwire-block2.png" class="center" />
 
 
+
+
+* <a href="{{ site.baseurl }}/dc-polyakov/">  直变频(DC) 接收计  </a>
+
+<img src='{{site.baseurl}}/images\DC-block-digaram.png'  class='center' width="500" />
+
+
+
 * <a href="{{ site.baseurl }}/amazing-regen/"> 神奇的再生收音机 </a>
 
 <img src="{{site.baseurl}}/../images/regen-block.png"  class="center"  width="400"/>
+
+
 
 
 * <a href="{{ site.baseurl }}/trf-i-origin-receiver/"> TRF-I 直放收音机第一波 </a>

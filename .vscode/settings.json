@@ -1,4 +1,4 @@
 {
-    "editor.tabCompletion": "onlySnippets",
+    "editor.tabCompletion": "on",
     "markdownlint.ignore": ["no-inline-html"]
 }
