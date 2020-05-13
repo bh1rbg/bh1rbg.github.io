@@ -1,0 +1,11 @@
+{
+	"div aligned to the center": {
+		"scope": "markdown",
+		"prefix": "divc",
+		"body": [
+            "<div align='center'> $1 </div>",
+            "$2",
+		],
+		"description": "Log output to console"
+}
+}

@@ -3,7 +3,7 @@
 		"scope": "markdown",
 		"prefix": "imgc",
 		"body": [
-			"<img src='{{site.baseurl}}/${CLIPBOARD/\\\\/\//g}'  class='center' />",
+			"<img src='{{site.baseurl}}/${CLIPBOARD}'  class='center' />",
 			"$2"
 		],
 		"description": "Log output to console"
