@@ -16,7 +16,9 @@ permalink: /radio/
 
 <img src="{{site.baseurl}}/images/TRF-longwire-block2.png" class="center" />
 
+* <a href="{{ site.baseurl }}/trf-ii-infinity-0v2/"> TRF II  高阻检波器0V2收音机 </a>
 
+<img src="{{site.baseurl}}/images/trf-ii-0v2-1.jpg" class="center" width="400" /> 
 
 
 * <a href="{{ site.baseurl }}/dc-polyakov/">  直变频(DC) 接收计  </a>
