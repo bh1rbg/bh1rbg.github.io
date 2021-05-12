@@ -6,6 +6,10 @@ permalink: /instrument/
 
 设备DIY, 设备维修.
 
+* <a href="{{ site.baseurl }}/tek495-fix-log/"> Tektronix 495P 维修与校准 (二)逆向对数放大器 </a>
+
+<img src="{{site.baseurl}}/images/tek495-fix-21.jpg" class="center"  height="300px" >
+
 * <a href="{{ site.baseurl }}/tek495-fix-state/"> Tektronix 495P 维修与校准 (一)情况摸排 </a>
 
 <img src="{{site.baseurl}}/images/tek495-fix-1.jpg" class="center"  height="300px">
