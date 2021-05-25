@@ -6,6 +6,10 @@ permalink: /instrument/
 
 设备DIY, 设备维修.
 
+* <a href="{{ site.baseurl }}/tek495-fix-fixed/"> Tektronix 495P 维修与校准 (四)云开雾散 </a>
+
+<img src="{{site.baseurl}}/images/tek495-fix-49.jpg" class="center"  >
+
 * <a href="{{ site.baseurl }}/tek495-fix-progress/"> Tektronix 495P 维修与校准 (三)进展 </a>
 
 <img src="{{site.baseurl}}/images/tek495-fix-33.jpg" class="center"  height="300px" >
